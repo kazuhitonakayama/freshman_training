@@ -1,13 +1,13 @@
-# 元となるソース
+## 元となるソース
 [gcchaanさん](https://github.com/gcchaan) がまとめられた[研修資料.md](https://gist.github.com/gcchaan/02f4746a323acac4095c30e0783a3912)をもとに作成しております。
 
-# コントリビュートについて
+## コントリビュートについて
 どなたでもお願いします！
 
-# 意義
+## 意義
 各社の研修資料をまとめていきます。
 
-# 各種研修資料
+## 各種研修資料
 ### 分野別資料
 #### SQL
 - [SQL Tutorial]（https://speakerdeck.com/nrslib/sql-tutorial）  
