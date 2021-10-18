@@ -12,7 +12,8 @@
 #### SQL
 - [SQL Tutorial]（https://speakerdeck.com/nrslib/sql-tutorial）  
 
-### エンジニア向け研修
+### 会社別資料
+#### エンジニア向け研修
 - AI Shift
   - [社内SQL研修のために作った資料を公開します](https://www.ai-shift.co.jp/techblog/1980) - (2021/06/21)
 - Classi
@@ -188,7 +189,7 @@
 - リブセンス
   - [プロダクトエンジニア養成講座@リブセンスのwebアプリケーションコース用研修資料を公開します](https://qiita.com/tchikuba/items/3b3fb14da696564e90ca) - (2019/10/25)
 
-### エンジニア向け研修受講者
+#### エンジニア向け研修受講者
 - ALBERT
   - [データサイエンティスト新卒研修レポート](https://blog.albert2005.co.jp/2018/07/02/%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b5%e3%82%a4%e3%82%a8%e3%83%b3%e3%83%86%e3%82%a3%e3%82%b9%e3%83%88%e6%96%b0%e5%8d%92%e7%a0%94%e4%bf%ae%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88/) - (2018/07/02)
   - [【2019年新卒入社】株式会社ALBERTに入社しました](https://blog.albert2005.co.jp/2019/07/11/2019_newgraduate/) - (2019/07/11)
@@ -290,7 +291,7 @@
   - [2018卒エンジニアによるエンジニア研修レポート(1)【フロントエンド研修】](https://blog.mwed.info/posts/new-graduate-training-2018.html) - (2018/07/06)
   - [2018卒エンジニアによるエンジニア研修レポート(2)【オブジェクト指向設計・自動テスト研修】](https://blog.mwed.info/posts/new-graduate-training-2018-02.html) - (2018/07/23)
 
-### エンジニア以外向け研修
+#### エンジニア以外向け研修
 - グッドパッチ
   - [UXデザイナーのマインドセットを学ぶGoodpatch流の新卒UXデザイン研修](https://goodpatch.com/blog/ux-training-newgrads) - (2021/06/01)
 - サイバード
@@ -311,25 +312,3 @@
 - ゆめみ
   - [iOS研修(GitHub)](https://github.com/yumemi-inc/ios-training)
   - [ゆめみのiOSエンジニア研修を公開します！(Qiita)](https://qiita.com/watanave/items/1cefa5aae18f5141c426)
-
-### その他技術資料
-- Japan Scala Association
-  - [Scala研修テキスト](https://scala-text.github.io/scala_text/)(ドワンゴから寄贈)
-- Amazon
-  - [機械学習](https://aws.amazon.com/jp/training/learning-paths/machine-learning/)
-- Microsoft
-  - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/)
-  - [microsoft/Web-Dev-For-Beginners（日本語訳）](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/translations/README.ja.md)
-
-### イベント
-- [師弟登壇・新米サムライの集い 2013](http://qiita.com/seri_k/items/fa63f87da75e78bb9162)（リンク切れ）
-- [#師弟登壇2015 のメモ書き](http://qiita.com/shimoju/items/018c23db041bb7745647)
-- [師弟登壇2017](https://pepabo.connpass.com/event/73020/)
-- [師弟登壇2018](https://pepabo.connpass.com/event/74938/)
-  - [#師弟登壇2018 ツイートまとめ](https://togetter.com/li/1192074)
-- [新宿Geek Lounge#5 新卒・中途研修Meetup](http://labs.septeni.co.jp/entry/2018/07/03/174648)
-- [エンジニアの新人研修Night](https://connpass.com/event/122422/)
-  - [エンジニア新人研修nightに参加して](https://tamochang.hatenablog.com/entry/2019/05/24/235949)
-
-### 読み物
-- [ペアプログラミングして気がついた新人プログラマの成長を阻害する悪習](http://qiita.com/hirokidaichi/items/27c757d92b6915e8ecf7)
