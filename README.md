@@ -8,6 +8,10 @@
 各社の研修資料をまとめていきます。
 
 ## まとめ
+### 分野別資料
+#### SQL
+- [SQL Tutorial]（https://speakerdeck.com/nrslib/sql-tutorial）  
+
 ### エンジニア向け研修
 - AI Shift
   - [社内SQL研修のために作った資料を公開します](https://www.ai-shift.co.jp/techblog/1980) - (2021/06/21)
