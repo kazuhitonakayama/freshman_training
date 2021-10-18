@@ -7,7 +7,7 @@
 # 意義
 各社の研修資料をまとめていきます。
 
-## まとめ
+# 各種研修資料
 ### 分野別資料
 #### SQL
 - [SQL Tutorial]（https://speakerdeck.com/nrslib/sql-tutorial）  
