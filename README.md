@@ -10,7 +10,7 @@
 ## 各種研修資料
 ### 分野別資料
 #### SQL
-- [SQL Tutorial]（https://speakerdeck.com/nrslib/sql-tutorial）  - (2019/06/14)
+- [SQL Tutorial](https://speakerdeck.com/nrslib/sql-tutorial）  - (2019/06/14)
 - 
 
 ### 会社別資料
