@@ -10,7 +10,7 @@
 ## 各種研修資料
 ### 分野別資料
 #### SQL
-- [SQL Tutorial](https://speakerdeck.com/nrslib/sql-tutorial） 
+- [SQLTutorial](https://speakerdeck.com/nrslib/sql-tutorial） 
 - [社内SQL研修のために作った資料を公開します](https://www.ai-shift.co.jp/techblog/1980)
 - 
 
