@@ -13,7 +13,8 @@
 - [SQL Tutorial](https://speakerdeck.com/nrslib/sql-tutorial) - (2019/06/14)
 
 #### ソフトスキル
-- [新人研修資料 向き合うエンジニア](https://www.slideshare.net/akira6592/mukiau2022p) - (2022/03/13)
+- [新人研修資料 向き合うエンジニア](https://www.slideshare.net/akira6592/mukiau2022p) - (2022/03/13) by エーピーコミュニケーションズ
+- [『ようこそ不確実な世界へ』DeNA新卒エンジニア研修の設計方針](https://engineering.dena.com/blog/2022/05/design-of-fy22-eng-training/) - (2022/05/11) by DeNA
 
 #### データサイエンス
 - [新卒データサイエンティスト研修「DSOps研修」とは何か?](https://developers.cyberagent.co.jp/blog/archives/34628/) - (2022/03/01) by サイバーエージェント
