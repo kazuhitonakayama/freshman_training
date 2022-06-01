@@ -12,6 +12,9 @@
 #### SQL
 - [SQL Tutorial](https://speakerdeck.com/nrslib/sql-tutorial) - (2019/06/14)
 
+#### ソフトスキル
+- [新人研修資料 向き合うエンジニア](https://www.slideshare.net/akira6592/mukiau2022p) - (2022/03/13)
+
 ### 会社別資料
 #### エンジニア向け研修
 - AI Shift
@@ -82,6 +85,8 @@
   - [新卒2年目が作るエンジニア新卒研修（2019年度）](https://engineers.weddingpark.co.jp/?p=2593) - (2019/06/24)
 - エムスリー
   - [エンジニア新人研修、始めました。](https://www.m3tech.blog/entry/2018/08/13/090000) - (2018/08/13)
+- エーピーコミュニケーションズ 
+  - [新人研修資料 向き合うエンジニア](https://www.slideshare.net/akira6592/mukiau2022p) - (2022/03/13)
 - オプト
   - [2020 年度のリモート新卒研修を振り返ってみた](https://tech-magazine.opt.ne.jp/entry/2021/03/25/180000) - (2021/03/25)
 - カヤック
