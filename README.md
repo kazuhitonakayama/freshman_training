@@ -15,6 +15,9 @@
 #### ソフトスキル
 - [新人研修資料 向き合うエンジニア](https://www.slideshare.net/akira6592/mukiau2022p) - (2022/03/13)
 
+#### データサイエンス
+- [新卒データサイエンティスト研修「DSOps研修」とは何か?](https://developers.cyberagent.co.jp/blog/archives/34628/) - (2022/03/01) by サイバーエージェント
+
 ### 会社別資料
 #### エンジニア向け研修
 - AI Shift
