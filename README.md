@@ -16,5 +16,5 @@
 - [ヌーラボ新卒研修の第一発目は「助けてもらい方」から始まった #ヌーラボ新卒研修](https://nulab.com/ja/blog/nulab/how-to-be-helped-training/) by Nulab
 
 #### データサイエンス
-- [新卒データサイエンティスト研修「DSOps研修」とは何か?](https://developers.cyberagent.co.jp/blog/archives/34628/) - (2022/03/01) by サイバーエージェント
+- [新卒データサイエンティスト研修「DSOps研修」とは何か?](https://developers.cyberagent.co.jp/blog/archives/34628/) by サイバーエージェント
 
